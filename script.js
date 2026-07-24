@@ -1,3 +1,3 @@
-document.addEventListener("DOMContentLoaded", function () {
-    console.log("Welcome to OmniSure Guide");
+window.addEventListener("load", () => {
+    console.log("OmniSure Guide Loaded Successfully");
 });
